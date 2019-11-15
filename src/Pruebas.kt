@@ -1,7 +1,7 @@
 fun main() {
-    println("Hello world!")
+    println("Hola gente")
 
-    println(sum(5,20))
+    println(sum(8,6))
     println("sum of $5 and $20 is ${5 + 20}")
 
 
